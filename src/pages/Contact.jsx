@@ -242,7 +242,7 @@ const Contact = () => {
                     // Emergency Response
                   </p>
                   <p className="text-base font-black text-white mt-0.5">
-                    07405 613595
+                   07440 112498
                   </p>
                 </div>
               </div>
@@ -410,7 +410,7 @@ const Contact = () => {
                 </p>
 
                 <a
-                  href="https://www.google.com/maps/search/?api=1&query=Chelsea%2C%20London%2C%20UK"
+                  href="https://maps.app.goo.gl/poPJmd5HMSX5WBxM9?g_st=ic"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs font-black text-[#5C4033] hover:underline inline-flex items-center gap-1 pt-1"
@@ -441,20 +441,20 @@ const Contact = () => {
           {[
             {
               label: "Local Premium Hub",
-              val: "Soho & Chelsea, London, UK",
+              val: "Chelsea, London, UK",
               icon: "📍",
             },
             {
               label: "Corporate Support",
-              val: "info@pessave.co.uk",
+              val: "info@pestcontrolchelsea.uk",
               icon: "✉️",
-              link: "mailto:info@pessave.co.uk",
+              link: "mailto:info@pestcontrolchelsea.uk",
             },
             {
               label: "Direct Emergency Helpline",
-              val: "07405 613595",
+              val: "07440 112498",
               icon: "📞",
-              link: "tel:07405 613595",
+              link: "tel:07440 112498",
             },
           ].map((node, i) => (
             <div

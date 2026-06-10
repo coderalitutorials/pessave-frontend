@@ -344,11 +344,11 @@ const Footer = () => {
                 className="flex items-center gap-4 hover:text-[#F2C12E] transition w-max"
               >
                 <span className="text-[#F2C12E] text-lg">📞</span>
-                07405 613595
+                07440 112498
               </a>
 
               <a
-                href="mailto:info@pessave.co.uk"
+                href="mailto:info@pestcontrolchelsea.uk"
                 className="flex items-center gap-4 hover:text-[#F2C12E] transition break-all"
               >
                 <span className="text-[#F2C12E] text-lg">✉️</span>
